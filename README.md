@@ -8,9 +8,9 @@
 4) Insert your name and chat away with other people that are logged onto the server.
 
 ## Features:
-<ol>
+<ul>
   <li>Single player tetris game</li>
   <li>2 player tetris game</li>
- </ol>
+ </ul>
  
  
